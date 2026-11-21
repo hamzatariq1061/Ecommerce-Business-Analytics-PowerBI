@@ -43,7 +43,7 @@ This project is a customized version of an existing Power BI dashboard, with upd
 ## How to Use
 
 1. Download or clone this repository.
-2. Open `Ecommerce-Business-Analytics.pbix` in Power BI Desktop.
+2. Open `Ecommerce_Report.pbix` in Power BI Desktop.
 3. If necessary, update the CSV data source path.
 4. Refresh the data and explore the dashboard.
 
