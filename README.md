@@ -52,14 +52,6 @@ This project is a customized version of an existing Power BI dashboard, with upd
 3. If necessary, update the CSV data source path.
 4. Refresh the data and explore the dashboard.
 
-## Credits
-
-This project is adapted from an existing Power BI project.
-
-Original project:
-https://github.com/mohamad396/Store_Sales_PowerBi_project
-
-The original dashboard and dataset belong to their respective creator(s). This repository contains a customized version shared with permission.
 
 ## Project Purpose
 
