@@ -33,18 +33,13 @@ This project is a customized version of an existing Power BI dashboard, with upd
 
 ## Dashboard Preview
 
-### Business Overview
-![Business Overview](Business-Overview.png)
+![Business Overview](Business-Overview.png.png)
 
-### Sales & Revenue Analytics
-![Sales Analytics](Sales-Analytics.png)
+![Sales Analytics](Sales-Analytics.png.png)
 
-### Product Analytics
-![Product Analytics](Product-Analytics.png)
+![Product Analytics](Product-Analytics.png.png)
 
-### Customer Analytics
-![Customer Analytics](Customer-Analytics.png)
-
+![Customer Analytics](Customer-Analytics.png.png)
 ## How to Use
 
 1. Download or clone this repository.
